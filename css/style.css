@@ -1,0 +1,173 @@
+body {
+  margin:  0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+    color: #66BFBF;
+
+}
+
+hr {
+  margin: 100px auto;
+  border: dotted 5px;
+  width: 3%;
+  border-bottom: none;
+  border-color: #DEEDF0;
+
+
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    padding: 18px 0;
+}
+
+a {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #CDF0EA;
+ position: relative;
+ padding-top: 100px;
+}
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+
+}
+
+.profile {
+
+  width: 40%;
+  margin:  0 auto;
+  line-height: 2;
+}
+
+.hello {
+  margin: 0px;
+}
+
+.pro-pic {
+  margin: 60px auto 0 auto;
+  width: 160px;
+  height: 160px;
+}
+
+.skill-img1 {
+  height: 37%;
+  width: 37%;
+  float: left;
+  margin-right: 20px ;
+
+
+}
+
+.skill-img2 {
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-right: 20px ;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+.h2{
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+    text-align: left;
+    line-height: 2.5;
+
+}
+.intro {
+  width: 80%;
+  margin: auto;
+}
+
+.contact-me {
+  margin: auto;
+  width: 40%;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 10px 10px 10px;
+  margin: 0 auto 0 auto;
+
+}
+
+.middle-container {
+  background-color: white;
+
+}
+.btn {
+   border-radius: 8px;
+   color: #FFFFFF;
+text-decoration: none;
+   font-size: 1rem;
+   padding: 7px 25px;
+   background-color: #11999E;
+   border: solid #1E6D6D 1px;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 30px auto;
+       font-family: 'Montserrat', sans-serif;
+}
+
+.btn:hover {
+   background: #11cdd4;
+   border: solid #337FED 1px;
+text-decoration: none;
+   border-radius: 8px;
+
+}
+
+
+.footer-link {
+  padding: 20px 30px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding: 10px;
+}
